@@ -1,0 +1,23 @@
+body{
+    padding: 50px
+    ;
+
+}
+a{
+    border: 1px solid red;
+    padding: 5px;
+    margin: 10px;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 20px;
+}
+a:hover{
+    background-color: darkblue;
+    color: white;
+}
+a:visited{
+    /* color: red; */
+}
+a:active{
+    background-color: red;
+}

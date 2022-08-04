@@ -1,0 +1,23 @@
+h1{
+    background-color: aquamarine;
+    margin-bottom: 0;
+}
+#part1{
+    box-sizing: border-box;
+    background-color: coral;
+    width: 250px;
+    margin: auto;
+    width: auto;
+    padding: 20px 25px 30px 40px
+}
+#part2{
+    background-color: blueviolet;
+    /* margin: inherit; */
+    padding-left: 20px;
+    padding-top: 40px;
+   
+}
+.container{
+    border: 2px solid red;
+    margin: 40px;
+}

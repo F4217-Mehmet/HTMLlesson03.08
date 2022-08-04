@@ -1,0 +1,20 @@
+
+.container{
+    background-color: lightsalmon;
+}
+.div1{
+    background-color: brown;
+    width: 150px;
+    height: 150px;
+}
+.div2{
+    box-sizing: border-box;
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+}
+.div3{
+    background-color: fuchsia;
+    width: 150px;
+    height: 150px;
+}

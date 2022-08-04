@@ -1,0 +1,42 @@
+h2{
+    text-align: center;
+}
+#par1{  
+    color: blue;  
+    text-align: center;
+    text-transform: capitalize;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    text-shadow: 3px 3px 7px blue;
+    column-count: 3;
+    column-rule: 3px solid orange;
+
+}
+#par2{    
+color: rgba(255, 0, 0, 1);
+text-decoration: underline;
+}
+#par3{  
+    color: blueviolet; 
+    text-indent: 15px;
+    text-decoration: line-through;
+    letter-spacing: 5px;
+
+}
+#par4{    
+color: black;
+text-justify: auto;
+text-decoration: overline wavy orange;
+line-height: 25px;
+
+}
+#par5{    
+color: fuchsia;
+text-align: right;
+font-family: yellowtail;
+}
+#span1{
+    color: orange;
+    text-transform: uppercase;
+    
+}
